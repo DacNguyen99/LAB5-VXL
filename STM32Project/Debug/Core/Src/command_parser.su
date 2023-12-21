@@ -1,0 +1,4 @@
+command_parser.c:13:6:command_parser_fsm	4	static
+command_parser.c:39:15:get_flag	4	static
+command_parser.c:43:8:get_command	4	static
+command_parser.c:47:6:clear_command	4	static
